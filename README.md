@@ -12,7 +12,3 @@ My new premium training course that aims to help you master the art of building 
 #### [ExtensionKit](https://extensionkit.io/?ref=github)
 
 ExtensionKit is a collection of Chrome Extension starter templates, examples, and development scripts so you can focus on building extensions, not boilerplate.
-
-#### [StandupWizard](https://standupwizard.com/?ref=github)
-
-A tool that lets your team run automated standups directly in Slack.
