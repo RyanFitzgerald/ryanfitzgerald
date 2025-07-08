@@ -7,7 +7,7 @@ I'm a Full-Stack Developer from Canada. I have experience building and scaling w
 
 #### [AI Dev Roundup Newsletter](https://aidevroundup.com/?ref=github)
 
-Your weekly dose of AI news, tools, and trends for devs short on time, not ambition.
+One concise email. Five minutes. Every Tuesday. A round up of the essential AI news & trends, production-ready libraries & frameworks, and powerful AI tools to supercharge your workflows.
 
 #### [Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js](https://fullstackextensions.com/?ref=github)
 
