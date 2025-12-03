@@ -6,10 +6,6 @@ I also talk a lot about [tips and AI-related workflows for devs on Twitter (X)](
 
 ### Things I'm working on
 
-#### [AI Dev Roundup Newsletter](https://aidevroundup.com/?ref=github)
-
-One concise email. Five minutes. Every Tuesday. A round up of the essential AI news & trends, production-ready libraries & frameworks, and powerful AI tools to supercharge your workflows.
-
 #### [Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js](https://fullstackextensions.com/?ref=github)
 
 My new premium training course that aims to help you master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices. 
