@@ -6,10 +6,10 @@ I also talk a lot about [tips and AI-related workflows for devs on Twitter (X)](
 
 ### Things I'm working on
 
-#### [Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js](https://fullstackextensions.com/?ref=github)
+#### [SlideCastle](https://slidecastle.com/?ref=github)
 
-My new premium training course that aims to help you master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices. 
+Create, design, and schedule TikTok slideshows in one streamlined and automated workflow. Built for speed and scale.
 
-#### [ExtensionKit](https://extensionkit.io/?ref=github)
+#### [RoomRevamp](https://roomrevampai.com/?ref=github)
 
-ExtensionKit is a collection of Chrome Extension starter templates, examples, and development scripts so you can focus on building extensions, not boilerplate.
+Upload a photo, choose a style, and watch AI transform your space while preserving its structure. Perfect for staging, renovation, and inspiration
